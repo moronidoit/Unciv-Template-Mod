@@ -25,7 +25,7 @@
         "innerColor": [29, 101, 41],
         "outerColor": [250, 220, 2],
         "uniqueName": "House of Wisdom",
-        "uniques": ["[+1 Science] [in all cities]"],
+        "uniques": ["[+4 Science, +4 Faith] [in all cities]<during a Golden Age>"],
         "cities": [
             "Baghdad",
             "",
