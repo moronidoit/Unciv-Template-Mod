@@ -28,37 +28,37 @@
         "uniques": ["[+1 Science] [in all cities]"],
         "cities": [
             "Baghdad",
-            "Asia",
-            "Europe",
-            "France",
-            "Spain",
-            "Germany",
-            "China"
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
         ]
     },
     {
-        "name": "Good Bacteria",
-        "leaderName": "Bacillus",
+        "name": "",
+        "leaderName": "",
         "startBias": [
-            "Avoid [Desert]",
-            "Avoid [Tundra]"
+            "",
+            ""
         ],
-        "preferredVictoryType": "Neutral",
-        "startIntroPart1": "We need help. We need you to defeat the bad bacteria in the world.",
-        "startIntroPart2": "If you could help me, I would thank you.",
-        "declaringWar": "I see you as a bad bacteria. I see you as a bacteria that harms people. I have no choice. WAR!",
-        "attacked": "Oh no! Help us!",
-        "defeated": "I... surrender...",
-        "introduction": "Hello! We are the good bacteria. Call me Bacillus.",
-        "neutralHello": "Hello.",
-        "hateHello": "Please stop.",
-        "tradeRequest": "This trade could benefit both of us!",
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
         "innerColor": [66, 135, 245],
         "outerColor": [3, 24, 56],
-        "uniqueName": "Good Bacteria",
+        "uniqueName": "",
         "uniques": [],
         "cities": [
-            "Lactobacillus"
+            ""
         ]
     },
     {
