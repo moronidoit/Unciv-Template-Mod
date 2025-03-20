@@ -9,7 +9,7 @@
         "leaderName": "Abassids",
         "startBias": [
             "Desert",
-            "Rivers",
+            "River",
             "Avoid [Tundra]"
         ],
         "preferredVictoryType": "Science",
@@ -67,6 +67,7 @@
         "startBias": [
             "Desert",
             "River",
+            "Avoid [Tundra]",
         ],
         "preferredVictoryType": "Religious",
         "startIntroPart1": "",
@@ -93,8 +94,9 @@
         "startBias": [
             "Hills",
             "Grassland",
+            "Avoid [Tundra]",
         ],
-        "preferredVictoryType": "",
+        "preferredVictoryType": "Diplomatic",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -105,7 +107,7 @@
         "hateHello": "",
         "tradeRequest": "",
         "innerColor": [66, 135, 245],
-        "outerColor": [3, 24, 56],
+        "outerColor": [255, 255, 255],
         "uniqueName": "",
         "uniques": [],
         "cities": [
