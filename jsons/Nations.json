@@ -40,7 +40,6 @@
         "name": "Aragon",
         "leaderName": "Alfonso VI",
         "startBias": [
-            "River",
             "Plains",
         ],
         "preferredVictoryType": "Cultural",
@@ -89,6 +88,31 @@
         ]
     },
     {
+        "name": "Basileia Rhomaion",
+        "leaderName": "Michael VIII Palaiologos",
+        "startBias": [
+            "Coast",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
         "name": "Bohemia",
         "leaderName": "Charles IV",
         "startBias": [
@@ -108,6 +132,206 @@
         "tradeRequest": "",
         "innerColor": [66, 135, 245],
         "outerColor": [255, 255, 255],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Castille",
+        "leaderName": "Alfonso VIII",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "leaderName": "",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "England",
+        "leaderName": "Henry V",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "France",
+        "leaderName": "Louis VI",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Germans",
+        "leaderName": "Frederick Barbarossa",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "Holy Roman Empire",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Hungary",
+        "leaderName": "Sigismund of Luxembourg",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Sicily"
+        "leaderName": "Roger II",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Sultanate of Rum",
+        "leaderName": "",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
         "uniqueName": "",
         "uniques": [],
         "cities": [
