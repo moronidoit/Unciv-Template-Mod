@@ -7,6 +7,7 @@
     {
         "name": "Abassids",
         "leaderName": "Abassids",
+        "adjective": ["Abassid"],
         "startBias": [
             "Desert",
             "River",
@@ -37,8 +38,35 @@
         ]
     },
     {
+        "name": "Al-Andalus",
+        "leaderName": "",
+        "adjective": ["Moorish"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
         "name": "Aragon",
         "leaderName": "Alfonso VI",
+        "adjective": ["Aragonese"],
         "startBias": [
             "Plains",
         ],
@@ -63,6 +91,7 @@
     {
         "name": "Ayyubids",
         "leaderName": "Saladin",
+        "adjective": ["Ayyubid"],
         "startBias": [
             "Desert",
             "River",
@@ -90,6 +119,7 @@
     {
         "name": "Basileia Rhomaion",
         "leaderName": "Michael VIII Palaiologos",
+        "adjective": ["Roman"],
         "startBias": [
             "Coast",
             ""
@@ -115,6 +145,7 @@
     {
         "name": "Bohemia",
         "leaderName": "Charles IV",
+        "adjective: ["Czech"],
         "startBias": [
             "Hills",
             "Grassland",
@@ -141,6 +172,7 @@
     {
         "name": "Castille",
         "leaderName": "Alfonso VIII",
+        "adjective": ["Castilian"],
         "startBias": [
             "",
             ""
@@ -160,7 +192,7 @@
         "uniqueName": "",
         "uniques": [],
         "cities": [
-            ""
+            "Toledo"
         ]
     },
     {
@@ -191,6 +223,7 @@
     {
         "name": "England",
         "leaderName": "Henry V",
+        "adjective": ["English"],
         "startBias": [
             "",
             ""
@@ -216,6 +249,7 @@
     {
         "name": "France",
         "leaderName": "Louis VI",
+        "adjective": ["French"],
         "startBias": [
             "",
             ""
@@ -241,6 +275,7 @@
     {
         "name": "Germans",
         "leaderName": "Frederick Barbarossa",
+        "adjective": ["German"],
         "startBias": [
             "",
             ""
@@ -266,6 +301,7 @@
     {
         "name": "Hungary",
         "leaderName": "Sigismund of Luxembourg",
+        "adjective": ["Hungarian"],
         "startBias": [
             "",
             ""
@@ -291,9 +327,10 @@
     {
         "name": "Jerusalem",
         "leaderName": "Baldwin IV",
+        "adjective": ["Crusader"],
         "startBias": [
             "Desert",
-            "Lake"
+            "Avoid [Coast]"
         ],
         "preferredVictoryType": "Domination",
         "startIntroPart1": "",
@@ -316,6 +353,7 @@
     {
         "name": "Sicily"
         "leaderName": "Roger II",
+        "adjective": ["Sicilian"],
         "startBias": [
             "",
             ""
@@ -341,6 +379,7 @@
     {
         "name": "Rum",
         "leaderName": "",
+        "adjective": ["Seljuk"],
         "startBias": [
             "",
             ""
