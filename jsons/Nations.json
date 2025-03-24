@@ -124,7 +124,7 @@
             "Coast",
             ""
         ],
-        "preferredVictoryType": "",
+        "preferredVictoryType": "Cultural",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -247,6 +247,31 @@
         ]
     },
     {
+        "name": "Ethiopia",
+        "leaderName": "Yekuno Amlak",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "Religious",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "House of Solomon",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
         "name": "France",
         "leaderName": "Louis VI",
         "adjective": ["French"],
@@ -254,7 +279,7 @@
             "",
             ""
         ],
-        "preferredVictoryType": "",
+        "preferredVictoryType": "Diplomatic",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -303,8 +328,7 @@
         "leaderName": "Sigismund of Luxembourg",
         "adjective": ["Hungarian"],
         "startBias": [
-            "",
-            ""
+            "Plains",
         ],
         "preferredVictoryType": "Domination",
         "startIntroPart1": "",
@@ -355,8 +379,9 @@
         "leaderName": "Olga of Kyiv",
         "adjective": ["Ruthenian"],
         "startBias": [
-            "",
-            ""
+            "Forest",
+            "River",
+            "Avoid [Desert]",
         ],
         "preferredVictoryType": "Cultural",
         "startIntroPart1": "",
@@ -404,13 +429,40 @@
         ]
     },
     {
-        "name": "",
-        "leaderName": "",
+        "name": "Novogorod,",
+        "leaderName": "Alexander Nevsky",
+        "adjective": ["Novgorodian"],
         "startBias": [
             "",
             ""
         ],
-        "preferredVictoryType": "",
+        "preferredVictoryType": "Diplomatic",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Ottomans",
+        "leaderName": "Mehmed II",
+        "adjective": ["Ottoman"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "Domination",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -431,6 +483,7 @@
     {
         "name": "Papal States",
         "leaderName": "Innocentius III",
+        "adjective": ["Papal"],
         "startBias": [
             "",
             ""
@@ -487,7 +540,7 @@
             "",
             ""
         ],
-        "preferredVictoryType": "",
+        "preferredVictoryType": "Domination",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
