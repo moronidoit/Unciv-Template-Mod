@@ -289,6 +289,31 @@
         ]
     },
     {
+        "name": "Jerusalem",
+        "leaderName": "Baldwin IV",
+        "startBias": [
+            "Desert",
+            "Lake"
+        ],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
         "name": "Sicily"
         "leaderName": "Roger II",
         "startBias": [
@@ -314,7 +339,7 @@
         ]
     },
     {
-        "name": "Sultanate of Rum",
+        "name": "Rum",
         "leaderName": "",
         "startBias": [
             "",
