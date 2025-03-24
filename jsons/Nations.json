@@ -5,9 +5,9 @@
 //		"innerColor": [255,255,255]
 	},
     {
-        "name": "Abassids",
-        "leaderName": "Abassids",
-        "adjective": ["Abassid"],
+        "name": "Abbasids",
+        "leaderName": "Abbasids",
+        "adjective": ["Abbasid"],
         "startBias": [
             "Desert",
             "River",
@@ -45,7 +45,7 @@
             "",
             ""
         ],
-        "preferredVictoryType": "",
+        "preferredVictoryType": "Science",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -151,7 +151,7 @@
             "Grassland",
             "Avoid [Tundra]",
         ],
-        "preferredVictoryType": "Diplomatic",
+        "preferredVictoryType": "Cultural",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -273,14 +273,14 @@
         ]
     },
     {
-        "name": "Germans",
+        "name": "Germany",
         "leaderName": "Frederick Barbarossa",
         "adjective": ["German"],
         "startBias": [
             "",
             ""
         ],
-        "preferredVictoryType": "",
+        "preferredVictoryType": "Domination",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -306,7 +306,7 @@
             "",
             ""
         ],
-        "preferredVictoryType": "",
+        "preferredVictoryType": "Domination",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -345,6 +345,109 @@
         "innerColor": [66, 135, 245],
         "outerColor": [3, 24, 56],
         "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Kyivan Rus",
+        "leaderName": "Olga of Kyiv",
+        "adjective": ["Ruthenian"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "Cultural",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Muscovy",
+        "leaderName": "Ivan III",
+        "adjective": ["Muscovite"],
+        "startBias": [
+            "Forest",
+            "Tundra",
+            "Avoid [Desert]",
+        ],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "",
+        "leaderName": "",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Papal States",
+        "leaderName": "Innocentius III",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "Religious",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "Call To Crusade",
         "uniques": [],
         "cities": [
             ""
