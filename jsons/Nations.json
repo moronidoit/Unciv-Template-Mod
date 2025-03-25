@@ -110,7 +110,7 @@
         "innerColor": [213, 171, 98],
         "outerColor": [60, 35, 7],
         "uniqueName": "",
-        "uniques": ["[+50]% to Flank Attack bonuses."],
+        "uniques": ["[+50]% to Flank Attack bonuses, [+50]% to Flank Attack bonuses <in cities following our religion>."],
         "cities": [
             "al-Qāhirah",
             "al-Iskandariyah",
@@ -797,6 +797,31 @@
         "outerColor": [3, 24, 56],
         "uniqueName": "",
         "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Timurids",
+        "leaderName": "Timur the Lame",
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": ["[3] free [Horse Archer] units appear <after adopting [Honor]>"],
         "cities": [
             ""
         ]
