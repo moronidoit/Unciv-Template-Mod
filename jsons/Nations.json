@@ -13,7 +13,7 @@
             "River",
             "Avoid [Tundra]"
         ],
-        "preferredVictoryType": "Science",
+        "preferredVictoryType": "Religious",
         "startIntroPart1": "",
         "startIntroPart2": "Raise the banner of Islam throughout all the Arab lands, Caliph al-Nasir, and the golden age of the Caliphate will surely remain eternal.",
         "declaringWar": "The might of the Caliphate will crush you, infidel!",
@@ -97,7 +97,7 @@
             "River",
             "Avoid [Tundra]",
         ],
-        "preferredVictoryType": "Religious",
+        "preferredVictoryType": "Domination",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -109,8 +109,8 @@
         "tradeRequest": "",
         "innerColor": [213, 171, 98],
         "outerColor": [60, 35, 7],
-        "uniqueName": "Victorious Jihad",
-        "uniques": ["[+100]% to Flank Attack bonuses <in cities following our religion>."],
+        "uniqueName": "",
+        "uniques": ["[+50]% to Flank Attack bonuses."],
         "cities": [
             "al-Qāhirah",
             "al-Iskandariyah",
@@ -139,7 +139,10 @@
         "uniqueName": "",
         "uniques": [],
         "cities": [
-            ""
+            "Kōnstantinoupolis",
+            "Thessaloniki",
+            "Nicæa",
+            "Nicomedeia",
         ]
     },
     {
@@ -163,6 +166,35 @@
         "tradeRequest": "",
         "innerColor": [66, 135, 245],
         "outerColor": [255, 255, 255],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            "Praha",
+            "Kutná Hora",
+            "Kolín",
+            "Žatec",
+        ]
+    },
+    {
+        "name": "Bulgaria",
+        "leaderName": "",
+        "adjective": ["Bulgarian"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
         "uniqueName": "",
         "uniques": [],
         "cities": [
@@ -196,8 +228,61 @@
         ]
     },
     {
-        "name": "",
+        "name": "Croatia",
         "leaderName": "",
+        "adjective": ["Croat"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Cuman-Kipchaks",
+        "leaderName": "",
+        "adjective": ["Cuman"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Denmark",
+        "leaderName": "",
+        "adjective": ["Danish"],
         "startBias": [
             "",
             ""
@@ -249,6 +334,7 @@
     {
         "name": "Ethiopia",
         "leaderName": "Yekuno Amlak",
+        "adjective": ["Ethiopian"],
         "startBias": [
             "",
             ""
@@ -375,6 +461,32 @@
         ]
     },
     {
+        "name": "Khwarazm",
+        "leaderName": "",
+        "adjective": ["Khwarazmian"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
         "name": "Kyivan Rus",
         "leaderName": "Olga of Kyiv",
         "adjective": ["Ruthenian"],
@@ -383,7 +495,59 @@
             "River",
             "Avoid [Desert]",
         ],
-        "preferredVictoryType": "Cultural",
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Lithuania",
+        "leaderName": "",
+        "adjective": ["Lithuanian"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Marinids",
+        "leaderName": "",
+        "adjective": ["Marinid"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -429,6 +593,58 @@
         ]
     },
     {
+        "name": "Navarre",
+        "leaderName": "Sancho the Strong",
+        "adjective": ["Basque"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "Culture",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Norway",
+        "leaderName": "",
+        "adjective": ["Norwegian"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
         "name": "Novogorod,",
         "leaderName": "Alexander Nevsky",
         "adjective": ["Novgorodian"],
@@ -436,7 +652,7 @@
             "",
             ""
         ],
-        "preferredVictoryType": "Diplomatic",
+        "preferredVictoryType": "Cultural",
         "startIntroPart1": "",
         "startIntroPart2": "",
         "declaringWar": "",
@@ -485,8 +701,9 @@
         "leaderName": "Innocentius III",
         "adjective": ["Papal"],
         "startBias": [
-            "",
-            ""
+            "Mountains",
+            "Avoid [Desert]",
+            "Avoid [Tundra]",
         ],
         "preferredVictoryType": "Religious",
         "startIntroPart1": "",
@@ -511,7 +728,7 @@
         "leaderName": "Roger II",
         "adjective": ["Sicilian"],
         "startBias": [
-            "",
+            "Coast",
             ""
         ],
         "preferredVictoryType": "",
@@ -559,7 +776,111 @@
         ]
     },
     {
-		"name": "Barbarians",
+        "name": "Teutonic Order",
+        "leaderName": "",
+        "adjective": ["Teuton"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Ulus of Jochi",
+        "leaderName": "Jochi",
+        "adjective": ["Tatar"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Venice",
+        "leaderName": "",
+        "adjective": ["Venetian"],
+        "startBias": [
+            "Coast",
+            ""
+        ],
+        "preferredVictoryType": "Cultural",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+        "name": "Wallachia",
+        "leaderName": "Vlad Țepeș",
+        "adjective": ["Wallachian"],
+        "startBias": [
+            "",
+            ""
+        ],
+        "preferredVictoryType": "",
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+        "declaringWar": "",
+        "attacked": "",
+        "defeated": "",
+        "introduction": "",
+        "neutralHello": "",
+        "hateHello": "",
+        "tradeRequest": "",
+        "innerColor": [66, 135, 245],
+        "outerColor": [3, 24, 56],
+        "uniqueName": "",
+        "uniques": [],
+        "cities": [
+            ""
+        ]
+    },
+    {
+		"name": "Brigands",
 		"outerColor": [0,0,0],
         "innerColor": [185,12,12],
 		"uniques": ["Can only heal by pillaging"]
